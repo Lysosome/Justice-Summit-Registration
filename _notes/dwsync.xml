@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="authenticate.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048247160000000" remote="131048247160000000" Dst="1" />
+<file name="rostersWednesday.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131049571030000000" remote="131049571030000000" Dst="1" />
+<file name="getAllSessions.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131047877280000000" remote="131047877280000000" Dst="1" />
+<file name="registerUnregistered.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131047460810000000" remote="131047460810000000" Dst="1" />
+<file name="fixSameSessionTwoBlock.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048182370000000" remote="131048182370000000" Dst="1" />
+<file name="register.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131047460860000000" remote="131047460860000000" Dst="1" />
+<file name="session_email_template.html" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131050596110000000" remote="131050596110000000" Dst="1" />
+<file name="mailer.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048296350000000" remote="131048296350000000" Dst="1" />
+<file name="login.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048372290000000" remote="131048372290000000" Dst="1" />
+<file name="email_template.html" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048296400000000" remote="131048296400000000" Dst="1" />
+<file name="rosters.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048419810000000" remote="131048419810000000" Dst="1" />
+<file name="logout.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131042860300000000" remote="131042860300000000" Dst="1" />
+<file name="fixSameWednesdayBlock.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131049549380000000" remote="131049549380000000" Dst="1" />
+<file name="index.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048259980000000" remote="131048259980000000" Dst="1" />
+<file name="indexNonViewOnly.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131048259680000000" remote="131048259680000000" Dst="1" />
+<file name="sessionMailer.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131050611620000000" remote="131050611620000000" Dst="1" />
+<file name="userSessions.php" server="times.bcp.org//var/www/html/www.bellarminenews.com/" local="131047285570000000" remote="131047285570000000" Dst="1" />
+</dwsync>
